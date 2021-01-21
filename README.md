@@ -4,7 +4,7 @@
 docker/cli
 ==========
 
-This repository is the home of the cli used in the Docker CE and
+This repository is a fork of the cli used in the Docker CE and
 Docker EE products.
 
 Development
