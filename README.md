@@ -1,7 +1,7 @@
 [![build status](https://circleci.com/gh/docker/cli.svg?style=shield)](https://circleci.com/gh/docker/cli/tree/master)
 [![Build Status](https://ci.docker.com/public/job/cli/job/master/badge/icon)](https://ci.docker.com/public/job/cli/job/master)
 
-docker/cli
+docker-cli
 ==========
 
 This repository is a fork of the cli used in the Docker CE and
